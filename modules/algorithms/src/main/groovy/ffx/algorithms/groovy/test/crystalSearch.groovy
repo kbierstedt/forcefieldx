@@ -337,7 +337,8 @@ class crystalSearch extends AlgorithmsScript {
         }
 
 
-        
+
+
         // Minimize the current atom configuration
         Potential g = minimize.minimize(eps);
 
