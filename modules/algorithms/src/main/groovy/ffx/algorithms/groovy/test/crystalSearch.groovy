@@ -336,7 +336,7 @@ class crystalSearch extends AlgorithmsScript {
           atoms[k].move(translation);
         }
 
-
+      // Comment for testing GitHub
 
 
         // Minimize the current atom configuration
